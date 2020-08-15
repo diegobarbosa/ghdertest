@@ -1,2 +1,2 @@
 # ghdertest
-A targe site for the Ghder project
+A target site for the Ghder project
